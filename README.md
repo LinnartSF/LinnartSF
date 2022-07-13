@@ -1,5 +1,3 @@
-Hi guys
-
 I founded <a href="https://www.supplychaindataanalytics.com">Supply Chain Data Analytics (SCDA)</a> and here I share some repositories that can be used for e.g. simulation modeling.
 
 Some publications:
