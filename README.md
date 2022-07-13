@@ -17,3 +17,5 @@ Some publications:
 <a href="https://www.supplychaindataanalytics.com/monte-carlo-simulation-in-r-for-warehouse-location-risk-assessment/">Monte-carlo simulation in R for warehouse location risk assessment</a>
 
 <a href="https://www.supplychaindataanalytics.com/animated-monte-carlo-simulation-with-gganimate-in-r/">Animated monte-carlo simulation with gganimate in R</a>
+
+<a href="https://www.supplychaindataanalytics.com/a-simple-agent-based-simulation-run-visualized-using-matplotlib-in-python/">Agent-based simulation in Python</a>
