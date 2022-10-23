@@ -2,8 +2,7 @@ I founded <a href="https://www.supplychaindataanalytics.com">Supply Chain Data A
 
 <img src="https://github.com/LinnartSF/abm_framework/blob/main/docufigs/scdalogo.PNG" alt="SCDA - Supply Chain Data Analytics" title="" width="75" height="75">
 
-Some publications:
-
+<h2>related SCDA publications</h2>
 <a href="https://www.supplychaindataanalytics.com/simulation-based-capacity-planning/">Simulation-based capacity planning</a>
 
 <a href="https://www.supplychaindataanalytics.com/procedure-model-for-discrete-event-simulation/">Procedure model for discrete-event simulation</a>
