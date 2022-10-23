@@ -1,5 +1,7 @@
 I founded <a href="https://www.supplychaindataanalytics.com">Supply Chain Data Analytics (SCDA)</a> and here I share some repositories that can be used for e.g. simulation modeling.
 
+<img src="/abm_framework/docufigs/scdalogo.PNG" alt="SCDA - Supply Chain Data Analytics" title="" width="75" height="75">
+
 Some publications:
 
 <a href="https://www.supplychaindataanalytics.com/simulation-based-capacity-planning/">Simulation-based capacity planning</a>
