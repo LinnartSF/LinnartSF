@@ -4,6 +4,7 @@ I founded <a href="https://www.supplychaindataanalytics.com">Supply Chain Data A
 
 <h2>related SCDA publications</h2>
 
+- <a href="https://www.supplychaindataanalytics.com/agent-based-sir-model-python-example/">Agent-based SIR model in Python</a>
 - <a href="https://www.supplychaindataanalytics.com/simulation-based-capacity-planning/">Simulation-based capacity planning</a>
 - <a href="https://www.supplychaindataanalytics.com/procedure-model-for-discrete-event-simulation/">Procedure model for discrete-event simulation</a>
 - <a href="https://www.supplychaindataanalytics.com/backlog-simulation-in-fifo-production-system/">Backlog simulation in FIFO production system</a>
