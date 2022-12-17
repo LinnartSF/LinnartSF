@@ -15,3 +15,4 @@ I founded <a href="https://www.supplychaindataanalytics.com">Supply Chain Data A
 - <a href="https://www.supplychaindataanalytics.com/animated-monte-carlo-simulation-with-gganimate-in-r/">Animated monte-carlo simulation with gganimate in R</a>
 - <a href="https://www.supplychaindataanalytics.com/a-simple-agent-based-simulation-run-visualized-using-matplotlib-in-python/">Agent-based simulation in Python</a>
 - <a href="https://www.supplychaindataanalytics.com/agent-based-segregation-model-python">Agent-based social segregation model in Python</a>
+- <a href="https://www.supplychaindataanalytics.com/assembly-line-simulation-and-line-balancing">Assembly line simulation and line balancing</a>
